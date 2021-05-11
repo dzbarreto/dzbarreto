@@ -1,7 +1,7 @@
 ## **Hi, I'm Deise** 👋 👩‍💻
   
 ###
-[Github Logo](v-card github.png)
+![Github Logo](v-card github.png)
 
 ## **Who I Am?**
   

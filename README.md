@@ -4,14 +4,18 @@
 
 ## **Who am I?**
   
-  ⚫ Systems Analisys and Development graduation |
+  ⚫ Systems Analisys and Development graduation 
+  
   ⚫ Web Designer
 
 ## **Skills**
 
   ✔️ PHP 🐘 |
+  
   ✔️ Python 🐍 |
+  
   ✔️ SQL 🔎 |
+  
   ✔️ HTML 
   
   **🌱 I’m currently learning Data Science**

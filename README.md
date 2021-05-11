@@ -1,6 +1,6 @@
  # **Hi, I'm Deise** 👋 👩‍💻  
 ###
-[Github Logo](v-card_github.png)
+![Github Logo](v-card_github.png)
 
 ## **Who am I?**
   
@@ -27,7 +27,7 @@
 
 ## **My Projects** ⚛️
 
-  ⚫ [WebScraping - API](https://github.com/dzbarreto/Webdbarreto/TesteMKMusic)
+  ⚫ [WebScraping - API](https://github.com/dzbarreto/Webdbarreto)
 
 
 

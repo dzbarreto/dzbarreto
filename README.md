@@ -1,7 +1,7 @@
 ## **Hi, I'm Deise** 👋 👩‍💻
   
 ###
-![Github Logo] (NAME ARCHIVE)
+[Github Logo](v-card github.png)
 
 ## **Who I Am?**
   
@@ -21,13 +21,13 @@
       
 ## **Find me in the web** 🌐
 
-  ❇️ [LinkedIn] (https://www.linkedin.com/in/deise-barreto/)
-  ❇️ [Site] (https://www.webdbarreto.com.br)
+  ❇️ [LinkedIn](https://www.linkedin.com/in/deise-barreto/)
+  ❇️ [Site](https://www.webdbarreto.com.br)
 
 
 ## **My Projects** ⚛️
 
-  ⚫ [Web Scraping - API] ()
+  ⚫ [Web Scraping - API](https://github.com/dzbarreto/Webdbarreto)
 
 
 

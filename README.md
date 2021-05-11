@@ -1,6 +1,6 @@
  # **Hi, I'm Deise** 👋 👩‍💻  
 ###
-![Github Logo](v-card github 2.png)
+[Github Logo](https://github.com/dzbarreto/dzbarreto/blob/fa1b47c3a5180a7abd6df48a751c7b66c8bc6969/v-card%20github%202.png)
 
 ## **Who am I?**
   

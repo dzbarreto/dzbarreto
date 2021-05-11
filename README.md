@@ -1,0 +1,41 @@
+## **Hi, I'm Deise** 👋 👩‍💻
+  
+###
+![Github Logo] (NAME ARCHIVE)
+
+## **Who I Am?**
+  
+  ⚫ Systems Analisys and Development graduation |
+  ⚫ Web Designer
+
+## **Skills**
+
+  ✔️ PHP 🐘 |
+  ✔️ Python 🐍 |
+  ✔️ SQL 🔎 |
+  ✔️ HTML 
+  
+  **🌱 I’m currently learning Data Science**
+      ☑️ R |
+      ☑️ Power BI
+      
+## **Find me in the web** 🌐
+
+  ❇️ [LinkedIn] (https://www.linkedin.com/in/deise-barreto/)
+  ❇️ [Site] (https://www.webdbarreto.com.br)
+
+
+## **My Projects** ⚛️
+
+  ⚫ [Web Scraping - API] ()
+
+
+
+
+
+
+
+
+
+
+
